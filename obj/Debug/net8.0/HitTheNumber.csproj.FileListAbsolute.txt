@@ -1,0 +1,14 @@
+C:\Users\cauam\source\repos\HitTheNumber\bin\Debug\net8.0\HitTheNumber.exe
+C:\Users\cauam\source\repos\HitTheNumber\bin\Debug\net8.0\HitTheNumber.deps.json
+C:\Users\cauam\source\repos\HitTheNumber\bin\Debug\net8.0\HitTheNumber.runtimeconfig.json
+C:\Users\cauam\source\repos\HitTheNumber\bin\Debug\net8.0\HitTheNumber.dll
+C:\Users\cauam\source\repos\HitTheNumber\bin\Debug\net8.0\HitTheNumber.pdb
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.AssemblyInfoInputs.cache
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.AssemblyInfo.cs
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.dll
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\refint\HitTheNumber.dll
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.pdb
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\HitTheNumber.genruntimeconfig.cache
+C:\Users\cauam\source\repos\HitTheNumber\obj\Debug\net8.0\ref\HitTheNumber.dll
